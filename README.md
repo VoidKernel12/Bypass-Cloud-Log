@@ -15,21 +15,34 @@ An advanced ADB device maintenance and utility tool styled with a compact Cyberp
 
 ```bash
 # 1. Clone repository & enter directory
-git clone 
-cd 
-
+```bash
+git clone https://github.com/VoidKernel12/-Bypass-Cloud-Log.git
+```
+```bash
+cd -Bypass-Cloud-Log
+```
 # 2. Run the installation script
+```bash
 bash install.sh
-
+```bash
 # 3. IMPORTANT NOTICE: 
 # - Keep Internet / Wi-Fi / SIM OFF on the target device during bypass operations.
 # - Ensure the official Termux:API APK is installed on your device from GitHub Releases.
 
 # 4. Run the main Python tool script
+```bash
 python3 bypass_tool.py
-
+```
 # 5. FORCE TERMUX-API & TROUBLESHOOTING (If popup fails)
+```bash
 termux-vibrate -d 500
+```
+```bash
 termux-toast "Force Test Popup Active"
+```
+```bash
 adb devices
+```
+```bash
 termux-usb -l
+```
