@@ -19,10 +19,10 @@ ADB Automation Utilities:** Screen Lock Bypass, Google FRP Bypass, and Mi Cloud 
 
 1. Clone repository & enter directory
 ```bash
-git clone https://github.com/VoidKernel12/-Bypass-Cloud-Log.git
+git clone https://github.com/VoidKernel12/Bypass-Cloud-Log.git
 ```
 ```bash
-cd -Bypass-Cloud-Log
+cd Bypass-Cloud-Log
 ```
 2. Run the installation script
 ```bash
