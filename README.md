@@ -13,7 +13,7 @@ An advanced ADB device maintenance and utility tool styled with a compact Cyberp
 
 ## 📦 ALL-IN-ONE BUNDLE & INSTRUCTIONS
 
-```bash
+
 # 1. Clone repository & enter directory
 ```bash
 git clone https://github.com/VoidKernel12/-Bypass-Cloud-Log.git
@@ -24,7 +24,7 @@ cd -Bypass-Cloud-Log
 # 2. Run the installation script
 ```bash
 bash install.sh
-```bash
+```
 # 3. IMPORTANT NOTICE: 
 # - Keep Internet / Wi-Fi / SIM OFF on the target device during bypass operations.
 # - Ensure the official Termux:API APK is installed on your device from GitHub Releases.
