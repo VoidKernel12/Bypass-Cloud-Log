@@ -1,6 +1,6 @@
  BYPASS TOOL FOR CLOUD SERVER
 Developed using Gemini AI (Creator Credit Only, Non-Promotional)**
-
+.
 An advanced ADB device maintenance and utility tool styled with a compact Cyberpunk Terminal HUD interface, specifically designed to run seamlessly in **Termux**.
 
 ---
@@ -49,3 +49,13 @@ adb devices
 ```bash
 termux-usb -l
 ```
+Requirements & Compatibility
+
+​OS Compatibility: Designed for Android 10 and MIUI devices.
+
+​Ease of Use: This method works very easily and efficiently on supported configurations.
+
+​Prerequisite: You must enable USB Debugging in your phone's Developer Options beforehand to ensure proper connection 
+
+between the device and the in Fastboot Mode
+support Android 9 8 7 6 10
